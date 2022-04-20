@@ -1,16 +1,4 @@
 let users = [
-  {
-    id: 1,
-    name: 'Hyun'
-  },
-  {
-    id: 2,
-    name: 'Alice'
-  },
-  {
-    id: 3,
-    name: 'kelly'
-  }
 ];
 exports.getUserList = function (req, res) {
     return res.json(users);
