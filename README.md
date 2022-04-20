@@ -4,7 +4,7 @@ Development from Node.js
 
 # COMMAND
 
-1. `git clone`
+1. `git clone https://github.com/High-PO/simple_RESTapi.git`
 2. `npm ci`
 3. `node server.js`
 
