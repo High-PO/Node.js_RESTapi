@@ -1,11 +1,12 @@
-# Node.js_RESTapi
+# Simple RESTapi Kit
 
-Nodejs RESTAPI simple kit
+Development from Node.js
 
 # COMMAND
 
 1. `git clone`
-2. `node server.js`
+2. `npm ci`
+3. `node server.js`
 
 # QUERY COMMAND
 
