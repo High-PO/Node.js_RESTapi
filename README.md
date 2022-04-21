@@ -12,17 +12,17 @@ Development from Node.js
 
 ## GET users
 ```
-curl -X GET 'localhost:3000/users'
+curl -X GET 'localhost:8085/users'
 ```
 ### GET user1
 ```
-curl -X GET 'localhost:3000/users/1'
+curl -X GET 'localhost:8085/users/1'
 ```
 ## POST users
 ```
-curl -X POST 'localhost:3000/users' -d "name=example"
+curl -X POST 'localhost:8085/users' -d "name=example"
 ```
 ## DELETE user 1
 ```
-curl -X DELETE 'localhost:3000/users/1'
+curl -X DELETE 'localhost:8085/users/1'
 ```
